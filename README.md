@@ -1,0 +1,2 @@
+# Sound-Classification-and-Music-Style-Prediction-Systems
+This project applies CNN and CRNN models for genre classification under resource constraints. Using transfer learning and multiframe techniques, it adapts pre-trained architectures, averages multiple audio frames, and fine-tunes models. Evaluated on custom and GTZAN datasets, the approach achieves competitive accuracy with efficient data handling.
